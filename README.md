@@ -12,7 +12,7 @@ A remake of the classic game Frogger where you have to navigate the frog safely 
 ## <a name="Install">Installation and Run</a>
 * To clone the repo and run the game
 ```shell
-$ git clone https://github.com/adrianeyre/frogger
+$ git clone https://github.com/christianshipley/frogger2.0
 $ cd frogger
 $ npm install
 $ npm start
