@@ -2,8 +2,8 @@
   "name": "frogger",
   "description": "A remake of the classic game Frogger",
   "version": "0.2.0",
-  "private": true,
-  "author": "Adrian Eyre",
+  "private": false,
+  "author": Christian Shipley
   "repository": {
     "type": "git",
     "url": "git+https://github.com/adrianeyre/frogger.git"
